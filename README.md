@@ -1,6 +1,6 @@
-# OscarJs
+# Oscar
 
-A backend API and frontend boilerplate.
+A RESTful API boilerplate in ExpressJs & MongoDB
 
 Backend API:
 - ExpressJs
